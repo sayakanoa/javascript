@@ -1,5 +1,4 @@
-// letによる再宣言
-let nicknemae = "hanako"
+var nickname = "hanako"
 console.log(nickname)
-let nickname = "ichiro"
+nickname = "ichiro"
 console.log(nickname)
